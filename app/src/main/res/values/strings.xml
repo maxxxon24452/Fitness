@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="slogan">На пути к совершенству!</string>
+    <string name="day">День:</string>
+    <string name="exercise">Упражнений</string>
+    <string name="timer_message">Упражнения начнуться через:</string>
+    <string name="start">начать</string>
+    <string name="next">Следующее</string>
+    <string name="done">ready</string>
+    <string name="day_finish">Поздравляю вы закончили день!</string>
+    <string name="button_day_finish">Закончить день</string>
+    <string name="day_finish_toolbar">День закончен</string>
+    <string name="Days">Дни тренировки</string>
+    <string name="exercises">Упражнения</string>
+    <string name="waiting">Приготовьтесь</string>
+    <string name="rest">Осталось:</string>
+    <string name="rest_days">дней</string>
+    <string name="reset">Cбросить</string>
+    <string name="alert">Внимание!</string>
+    <string name="back">Oтмена</string>
+    <string name="reset_days_message">Вы действительно хотите сбросить все дни тренировки?</string>
+    <string name="reset_day_message">Хотите сбросить этот день и повторить упражнения?</string>
+    <string name="fragment_text">Осталось 20 дней</string>
+
+</resources>
